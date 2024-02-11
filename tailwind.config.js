@@ -16,7 +16,10 @@ export default {
         secondary: "#C00000",
         third: "#DE3C3C",
         fourth: "#F7B32D",
-      }
+      },
+      margin: {
+        '200px': '200px',
+      },
     },
   },
   plugins: [],
